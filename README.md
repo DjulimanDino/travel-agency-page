@@ -14,8 +14,5 @@ It showcases travel packages, featured destinations, and a clean landing page la
 - HTML5
 - CSS3
 
-## Live Demo
-[View Project](https://djulimandino.github.io/travel-agency/)
-
 ## Author
 Dino Đuliman
